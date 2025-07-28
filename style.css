@@ -1,3 +1,4 @@
+
 *{
     padding: 0;
     margin: 0;
@@ -36,16 +37,16 @@ body{
 
 @keyframes slider {
     0%, 33% {
-        background-image: url(./img/olhos-gato.jpg);
-        --text-description: "Olhos de gato!"
+        background-image: url(./img/1000043068.jpg);
+        --text-description: "Local satisfatório"
     }
     34%, 66% {
-        background-image: url(./img/olhos-cachorro.jpg);
-        --text-description: "Olhos de cachorro!"
+        background-image: url(./img/1000043075.jpg);
+        --text-description: "Levantamento de requisitos "
     }
     67%, 100% {
-        background-image: url(./img/olhos-aguia.jpg);
-        --text-description: "Olhos de aguia!"
+        background-image: url(./img/1000043077.jpg);
+        --text-description: "Livros interessantes da biblioteca"
     }
 }
 @keyframes fade {
